@@ -4,7 +4,7 @@ A data analysis and visualization project exploring personal finance behavior ac
 
 ##  Live Dashboard
 You can view the interactive dashboard here:  
-**[Click to open the Live Dashboard](https://DoniaHabib1.github.io/personal-finance-dashboard/dashboard/finance_dashboard.html)**
+**[Click to open the Live Dashboard](https://DoniaHabib1.github.io/personal-finance-dashboard/dashboard/index.html)**
 
 ##  Dataset
 The dataset contains 500 records (stratified sample) with features including Monthly Income, Expense, Savings Rate, Credit Score, Debt-to-Income Ratio, and Financial Stress Level.
